@@ -1,0 +1,18 @@
+.full{
+    width: 100px;
+    height: 100px;
+}
+.nav-item{
+
+}
+.nav-item.active a{
+    color: #fff;
+    background: #0275d8;
+}
+.ng-invalid.ng-dirty{
+    outline-color: red;
+}
+
+.ng-valid.ng-dirty{
+    outline-color: green;
+}
